@@ -31,3 +31,6 @@ Solved 250+ coding problems on competitive programming platforms.
 <h1>📊 GitHub Stats:</h1>
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav075&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav075&theme=radical&hide_border=true" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gaurav075&theme=redical&area=true&radius=14" alt="Activity Graph"> </p>
+<h1>🏆 GitHub Trophies:</h1>
+<br/>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gaurav075&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"> </p>
