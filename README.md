@@ -1,14 +1,14 @@
 <h1 align="center">Hi, Everyone! 👋 I'm Gaurav Gupta</h1> <p align="center"> <a href="https://github.com/Gaurav075?tab=followers"> <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Gaurav075?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/> </a> <a href="https://github.com/Gaurav075?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gaurav075?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/> </a> <img src="https://komarev.com/ghpvc/?username=Gaurav075&label=PROFILE%20VISITORS&color=CD5F08&style=for-the-badge" height="28"/> </p>
 <h1>🔭 Currently Working On:</h1>
 <!-- <br/> -->
-<h2>Web Development Projects focusing on responsive designs and optimized user experiences.
-Open Source Contributions through initiatives like GSSoC.</h2>
+<h3>Web Development Projects focusing on responsive designs and optimized user experiences.
+Open Source Contributions through initiatives like GSSoC.</h3>
 <br/>
 <h1>🌱 Learning & Exploring:</h1>
 <!-- <br/> -->
-<h2>System Design concepts.
+<h3>System Design concepts.
 Cloud Services such as Cloudinary.
-Backend Development with tools like Node.js, Express.js, and REST APIs.</h2>
+Backend Development with tools like Node.js, Express.js, and REST APIs.</h3>
 <br/>
 <h1>💻 Tech Stack:</h1>
 <br/>
