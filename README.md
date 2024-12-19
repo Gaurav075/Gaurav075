@@ -25,12 +25,12 @@ Solved 250+ coding problems on competitive programming platforms.
 5-star C++ Programmer on HackerRank.
 <br/> -->
 <h1>🌏 Social Links:</h1>
-<br/>
+<!-- <br/> -->
 <p align="center"> <a href="https://www.linkedin.com/in/gaurav-gupta-097069261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:officialgauravgupta3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.instagram.com/gauravgupta7431/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.youtube.com/channel/UCJtTJKJ_bg7RB1ObHzKCRqw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
 <br/>
 <h1>📊 GitHub Stats:</h1>
-<br/>
+<!-- <br/> -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav075&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav075&theme=radical&layout=compact&hide_border=true" alt="Most Used Languages"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav075&theme=radical" alt="Activity Graph"/> </p>
 <h1>🏆 GitHub Trophies:</h1>
-<br/>
+<!-- <br/> -->
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Gaurav075&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"> </p>
