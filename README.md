@@ -26,7 +26,7 @@ Solved 250+ coding problems on competitive programming platforms.
 <br/>
 <h1>🌏 Social Links:</h1>
 <br/>
-<p align="center"> <a href="https://www.linkedin.com/in/gaurav-gupta-097069261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:officialgauravgupta3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.youtube.com/channel/UCJtTJKJ_bg7RB1ObHzKCRqw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/gaurav-gupta-097069261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:officialgauravgupta3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.instagram.com/gauravgupta7431/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.youtube.com/channel/UCJtTJKJ_bg7RB1ObHzKCRqw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
 <br/>
 <h1>📊 GitHub Stats:</h1>
 <br/>
